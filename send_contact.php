@@ -10,7 +10,7 @@ $mail_from=$_POST['dari'];
 $head="From: ".$_POST['nama']. " <".$mail_from.">";
 
 // Enter your email address
-$to ='f4ztr1k@yahoo.co.id, adha.nurfalah@gmail.com';
+$to ='email1@mail.com, email2@mail.com';
 
 $send_contact=mail($to,$subject,$message,$head);
 
