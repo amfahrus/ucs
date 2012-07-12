@@ -14,17 +14,6 @@ case "slims-node2":
 ?>
 <script src='js/jquery.js' type='text/javascript'></script>
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
-<script type="text/javascript"><!--
-google_ad_client = "pub-5549337631353789";
-/* 468x15, created 3/9/11 */
-google_ad_slot = "6135390977";
-google_ad_width = 468;
-google_ad_height = 15;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
 <script type="text/javascript">
 var infowindow = null;
     $(document).ready(function () { initialize(); });
@@ -78,14 +67,3 @@ var infowindow = null;
     }
 </script>
 <div align="center" id="map_canvas" style="width: 620px; height: 380px;"></div>
-<div align="center"><script type="text/javascript"><!--
-google_ad_client = "pub-5549337631353789";
-/* 468x60, created 3/9/11 */
-google_ad_slot = "1212668671";
-google_ad_width = 468;
-google_ad_height = 60;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>

@@ -80,9 +80,9 @@ ob_start(); /* <- DONT REMOVE THIS COMMAND */
 <td class="tblHead" style="width: 20%;" valign="top"><?php print __('Download PDF'); ?></td>
 <td class="tblContent" style="width: 80%;" valign="top">
 <form action="http://www.primurlib.net" id="cse-search-box">
-        <input type="hidden" name="cx" value="partner-pub-5549337631353789:y7lunfyw93f" />
-    <input type="hidden" name="cof" value="FORID:10" />
-    <input type="hidden" name="ie" value="ISO-8859-1" />
+        <input type="hidden" name="cx" value="partner-pub-googlenya" />
+    <input type="hidden" name="cof" value="FORIDNYA" />
+    <input type="hidden" name="ie" value="ISONYA" />
     <input type="hidden" name="q" value="{pdf} ; filetype:pdf" size="100" />
     <input type="submit" name="sa" value="Search PDF" />
 </form><script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script><br>

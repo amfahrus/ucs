@@ -58,29 +58,8 @@ z-index: 100;
              // Remove this one if you don't want snap effect  
              snap: true  
          });  
-</script>  
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-7207925-2']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<script>
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({
-    pageLanguage: 'auto',
-    gaTrack: true,
-    gaId: 'UA-7207925-2'
-  });
-}
-</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><?php echo $metadata; ?>
+</script> 
+<?php echo $metadata; ?>
 </head>
 <body>
 <div id="floatdiv">
@@ -96,7 +75,7 @@ function googleTranslateElementInit() {
 </div>
 
 <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=blackwiz"></script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=username_anda"></script>
 </div>
 <div class="container_12">
 
@@ -127,26 +106,16 @@ function googleTranslateElementInit() {
 <fieldset id="simple-search">
         <div class="block-header"><?php echo __('Google Search'); ?>&nbsp;<form action="http://www.primurlib.net" id="cse-search-box">
   <div>
-    <input type="hidden" name="cx" value="partner-pub-5549337631353789:y7lunfyw93f" />
-    <input type="hidden" name="cof" value="FORID:10" />
-    <input type="hidden" name="ie" value="ISO-8859-1" />
+    <input type="hidden" name="cx" value="partner-pub-googlenya" />
+    <input type="hidden" name="cof" value="FORIDNYA" />
+    <input type="hidden" name="ie" value="ISONYA" />
     <input type="text" name="q" size="100" />
     <input type="submit" name="sa" value="Search" />
   </div>
 </form>
 <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 </div>
-                <script type="text/javascript"><!--
-google_ad_client = "ca-pub-5549337631353789";
-/* 468x15, created 3/9/11 */
-google_ad_slot = "6135390977";
-google_ad_width = 468;
-google_ad_height = 15;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></fieldset>
+ </fieldset>
 <div class="grid_12" id="cse-search-results"></div>
 <script type="text/javascript">
   var googleSearchIframeName = "cse-search-results";
@@ -168,8 +137,8 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 	<div class="block-side">	
 		<div class="block-header">Contact Person</div>
 			<table align="center" border="0">
-			<tr><td align="center">Indra</td><td><a href="ymsgr:sendIM?primurlib"><img border=0 src="http://opi.yahoo.com/online?u=primurlib&amp;m=g&amp;t=1" /> </a></td></tr>
-	                <tr><td align="center">Fahrus</td><td><a href="ymsgr:sendIM?f4ztr1k"><img border=0 src="http://opi.yahoo.com/online?u=f4ztr1k&amp;m=g&amp;t=1" /> </a></td></tr>	        
+			<tr><td align="center">Indra</td><td><a href="ymsgr:sendIM?useranda"><img border=0 src="http://opi.yahoo.com/online?u=primurlib&amp;m=g&amp;t=1" /> </a></td></tr>
+	                <tr><td align="center">Fahrus</td><td><a href="ymsgr:sendIM?useranda"><img border=0 src="http://opi.yahoo.com/online?u=f4ztr1k&amp;m=g&amp;t=1" /> </a></td></tr>	        
                         </table>
 	</div>
 	<div class="clear">&nbsp;</div>
@@ -262,32 +231,15 @@ so.write("flashcontent");
 <div class="spacer">&nbsp;</div>
 <div class="block-side">
 <div class="block-header">Sponsor</div>
-<p align="center">
-<script type="text/javascript"><!--
-google_ad_client = "pub-5549337631353789";
-/* 120x240, created 2/21/11 */
-google_ad_slot = "7277572376";
-google_ad_width = 120;
-google_ad_height = 240;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></p>
+<p align="center"></p>
         </div>
 	<div class="clear">&nbsp;</div>
     <div class="spacer">&nbsp;</div>
 	<div class="block-side">
 		<div class="block-header">Web Statistik  <a href="http://www.prchecker.info/" title="Check Google Page Rank" target="_blank">
-<img src="http://pr.prchecker.info/getpr.php?codex=aHR0cDovL3d3dy5wcmltdXJsaWIubmV0Lw==&tag=3" alt="Check Google Page Rank" style="border:0;" /></a>
+<img src="http://pr.prchecker.info/getpr.php?codex=codeanda==&tag=3" alt="Check Google Page Rank" style="border:0;" /></a>
 </div>
 		<p align="center"><!-- Histats.com  START  (standard)-->
-<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
-<a href="http://www.histats.com" target="_blank" title="web log free" ><script  type="text/javascript" >
-try {Histats.start(1,1321954,4,406,165,100,"00011011");
-Histats.track_hits();} catch(err){};
-</script></a>
-<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?1321954&101" alt="web log free" border="0"></a></noscript>
 <!-- Histats.com  END  --></p>
 </div>
     </div>
@@ -313,33 +265,13 @@ Histats.track_hits();} catch(err){};
     <?php echo $main_content; ?>
     </div>
     <!--application main content end -->
-    <div class="grid_12" id="gooads" align="center"><script type="text/javascript"><!--
-google_ad_client = "pub-5549337631353789";
-/* 728x90, created 3/16/11 */
-google_ad_slot = "6974919199";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
+    <div class="grid_12" id="gooads" align="center"></div>
     <!--footer-->
     <div class="grid_12" id="footer">
     <?php echo $sysconf['page_footer']; ?> 
     <div class="block-header">Komentar</div>
-    <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=172971532722321&amp;xfbml=1"></script><fb:comments xid="172971532722321" numposts="5" width="600" publish_feed="true"></fb:comments>		
-    <script type="text/javascript"><!--
-google_ad_client = "pub-5549337631353789";
-/* 300x250, created 2/4/11 */
-google_ad_slot = "2704586952";
-google_ad_width = 300;
-google_ad_height = 250;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
+    <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=IDANDA&amp;xfbml=1"></script><fb:comments xid="IDANDA" numposts="5" width="600" publish_feed="true"></fb:comments>		
+    </div>
     <!--footer end-->
 
     <div class="clear">&nbsp;</div>
